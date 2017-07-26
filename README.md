@@ -1,0 +1,1 @@
+# magacoin-detached-sigs
